@@ -63,4 +63,4 @@ if __name__ == '__main__':
         count = 0
         result = countInversions(arr)
         
-        print(result)
+        print(arr)
